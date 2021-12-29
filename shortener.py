@@ -3,7 +3,7 @@
 
 """
 netlify-gsheet-url-shortner
-A Python based Url Shortner using Netlity and Google Sheets.
+A Python based Url Shortener using Netlity and Google Sheets.
 
 MIT License
 Copyright (c) 2021 SeoWings www.seowings.org
