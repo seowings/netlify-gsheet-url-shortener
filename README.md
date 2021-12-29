@@ -1,4 +1,4 @@
-# netlify-gsheet-url-shortner
+# netlify-gsheet-url-shortener
 
 A Url Shortner Generator which uses Google Sheets as Data EndPoint. 
 
